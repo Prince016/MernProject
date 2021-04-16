@@ -1,0 +1,14 @@
+*{
+    margin: 3px;
+    padding: 3px;
+    
+}
+
+h1{
+    color: blue;
+}
+
+a{
+    font: 500;
+    font-size: 23px;
+}
